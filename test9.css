@@ -1,0 +1,44 @@
+* {
+
+    word-wrap: break-word;
+    font-family: "Sofia Sans", sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+div {
+
+    margin: auto;
+    margin-top: 10rem;
+    margin-left: 40rem;
+
+}
+
+img {
+
+    width: 20rem;
+    height: 20rem;
+
+}
+
+input {
+
+    width: 5rem;
+    height: 5rem;
+
+}
+
+#backward {
+
+    margin: auto;
+
+}
+
+#forward {
+
+    margin-left: auto;
+    margin-top: -10rem;
+    
+}
